@@ -1,0 +1,18 @@
+.item {
+  color : blue;
+}
+
+.top {
+background : pink;
+height : 100px;
+}
+
+.mid{
+  background : paleturquoise;
+height : 100px;
+}
+
+.bot{
+background : plum;
+height : 100px;
+}
